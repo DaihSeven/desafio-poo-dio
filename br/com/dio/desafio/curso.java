@@ -1,11 +1,11 @@
 package br.com.dio.desafio;
 
-public class curso {
+public class Curso {
    private String titulo;
    private String descricao;
    private int cargaHoraria;
 
-    public curso() {
+    public Curso() {
 
     }
    public String getTitulo() {
