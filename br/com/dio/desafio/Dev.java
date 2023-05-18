@@ -1,10 +1,9 @@
+package br.com.dio.desafio;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
-
-import br.com.dio.desafio.Bootcamp;
 
 public class Dev {
     private String nome;

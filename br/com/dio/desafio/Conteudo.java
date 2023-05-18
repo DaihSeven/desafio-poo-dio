@@ -1,3 +1,4 @@
+package br.com.dio.desafio;
 
 public enum Conteudo {
     protected static double XP_PADRAO = 10d;
